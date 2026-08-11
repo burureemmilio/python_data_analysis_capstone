@@ -1,5 +1,16 @@
 # python_data_analysis_capstone
 ## Comparative Analysis of Socioeconomic Development in Selected East African Countries: A Focus on Kenya
+### Project Overview
+This capstone project uses Python to analyze and compare socioeconomic development across five selected East African countries, with a particular focus on Kenya.
+The countries included are:
+ - Kenya
+ - Uganda
+ - Tanzania
+ - Rwanda
+ - Burundi
+The analysis covers the period 2010–2024 and uses socioeconomic indicators obtained from the World Bank World Development Indicators (WDI) database.
+The project aims to examine development trends across the region, compare Kenya with its regional peers, and identify areas where Kenya performs strongly or lags behind.
+
 ### Project Objective
 The main objectives of the project are to:
  - Analyze socioeconomic trends in the selected East African countries from 2010 to 2024.
