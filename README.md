@@ -21,3 +21,13 @@ The project seeks to answer the following questions:
 
 ### Dataset
 The dataset was obtained from the [World Bank World Development Indicators (WDI) database](https://databank.worldbank.org/source/world-development-indicators).
+
+### Tools and Technologies
+The project will be completed mainly using Python.
+
+### Python Libraries
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
+import plotly.express as px
