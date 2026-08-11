@@ -26,8 +26,8 @@ The dataset was obtained from the [World Bank World Development Indicators (WDI)
 The project will be completed mainly using Python.
 
 ### Python Libraries
-import pandas as pd 
-import numpy as np 
-import matplotlib.pyplot as plt 
-import seaborn as sns 
-import plotly.express as px
+ - import pandas as pd
+ - import numpy as np
+ - import matplotlib.pyplot as plt
+ - import seaborn as sns
+ - import plotly.express as px
