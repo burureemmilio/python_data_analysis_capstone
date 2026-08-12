@@ -1,39 +1,38 @@
 # python_data_analysis_capstone
-## Comparative Analysis of Socioeconomic Development in Selected East African Countries: A Focus on Kenya
+## Analysis of Road Traffic Accidents in Kenya
 ### Project Overview
-This capstone project uses Python to analyze and compare socioeconomic development across five selected East African countries, with a particular focus on Kenya.
-The countries included are: Kenya, Uganda, Tanzania, Rwanda and Burundi.
-The analysis covers the period 2010–2024 and uses socioeconomic indicators obtained from the World Bank World Development Indicators (WDI) database.
-The project aims to examine development trends across the region, compare Kenya with its regional peers, and identify areas where Kenya performs strongly or lags behind.
+
+This capstone project uses Python to analyze road traffic accidents in Kenya.
+
+The dataset contains information on accidents recorded across different counties, roads, and locations in Kenya. It includes details such as accident time, date, vehicles involved, victim information, gender, age, victim type, accident description, and cause codes.
+
+The project aims to identify patterns in road accidents, determine locations and road users that are most affected, examine when accidents are most likely to occur, and communicate the findings using different Python data visualization techniques.
 
 ### Project Objective
 The main objectives of the project are to:
- - Analyze socioeconomic trends in the selected East African countries from 2010 to 2024.
- - Compare Kenya's performance with Uganda, Tanzania, Rwanda, and Burundi.
- - Identify countries showing the strongest improvement in selected development indicators.
- - Examine relationships between economic, social, technological, and infrastructure indicators.
- - Identify areas where Kenya performs above or below its regional peers.
+
+ - Clean and prepare the road accident dataset using Python.
+ - Identify counties with the highest number of recorded road accidents.
+ - Determine roads and locations that appear most frequently in accident records.
+ - Analyze the types of road users most affected by accidents.
+ - Examine accident patterns based on time and date.
+ - Compare accident involvement by gender and victim category.
+ - Identify commonly recorded accident causes and circumstances.
+ - Analyze the types of vehicles commonly involved in accidents.
  - Communicate findings using different Python data visualization techniques.
 
 ### Research Questions
 The project seeks to answer the following questions:
- - How have major socioeconomic indicators changed across the five countries between 2010 and 2024?
- - How does Kenya's economic performance compare with Uganda, Tanzania, Rwanda, and Burundi?
- - Which country has experienced the strongest improvement in socioeconomic development?
- - How does access to electricity and the internet differ across the five countries?
- - What relationship exists between GDP per capita and indicators such as life expectancy, internet access, and electricity access?
- - How do unemployment and inflation trends compare across the region?
- - In which areas does Kenya perform better or worse than the other selected East African countries?
+
+ - Which counties have the highest number of recorded road accidents?
+ - Which roads and locations record the highest number of accidents?
+ - What types of road users are most affected by road accidents?
+ - At what times of the day are accidents most frequently recorded?
+ - How does accident involvement differ by gender?
+ - What are the most commonly recorded accident causes?
+ - Which types of vehicles are most frequently involved in accidents?
+ - How do accident patterns vary over time?
+ - Are there identifiable road accident hotspots in the dataset?
 
 ### Dataset
-The dataset was obtained from the [World Bank World Development Indicators (WDI) database](https://databank.worldbank.org/source/world-development-indicators).
-
-### Tools and Technologies
-The project will be completed mainly using Python.
-
-### Python Libraries
- - import pandas as pd
- - import numpy as np
- - import matplotlib.pyplot as plt
- - import seaborn as sns
- - import plotly.express as px
+ - The CSV file used for the analysis was obtained from the [Kaggle Kenya Accidents Dataset](https://www.kaggle.com/datasets/waawerufidelis/accidents-kenya?resource=download).
