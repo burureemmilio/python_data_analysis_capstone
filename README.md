@@ -36,3 +36,6 @@ The project seeks to answer the following questions:
 
 ### Dataset
  - The CSV file used for the analysis was obtained from the [Kaggle Kenya Accidents Dataset](https://www.kaggle.com/datasets/waawerufidelis/accidents-kenya?resource=download).
+
+### Tools and Technologies
+The project will be completed mainly using Python.
