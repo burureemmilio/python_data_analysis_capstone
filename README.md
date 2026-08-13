@@ -1,6 +1,6 @@
 # python_data_analysis_capstone
 ## Analysis of Road Traffic Accidents in Kenya
-### Problem Definition
+### Problem Statement
 
 Road traffic accidents remain a major public safety concern in Kenya, resulting in loss of lives, injuries, property damage, and significant social and economic costs. Despite ongoing road safety initiatives, accidents continue to occur across different counties, roads, and locations, affecting various categories of road users including pedestrians, passengers, drivers, and cyclists.
 
