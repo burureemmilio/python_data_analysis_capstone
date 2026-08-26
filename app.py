@@ -224,7 +224,8 @@ st.sidebar.divider()
 st.sidebar.markdown(
     f"**Dataset:** {TOTAL_RECORDS:,} victim records\n\n"
     f"**Year:** 2017\n\n"
-    f"**Counties:** {N_COUNTIES}"
+    f"**Counties:** {N_COUNTIES}\n\n"
+    f"**Data Source: [Kenyan Accidents Dataset from Kaggle](https://www.kaggle.com/datasets/waawerufidelis/accidents-kenya?resource=download)**"
 )
 
 section = chosen
