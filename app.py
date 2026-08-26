@@ -263,8 +263,7 @@ records from 2017**, spanning **{N_COUNTIES} counties** and **{N_ROADS} named
 roads**, to build a clear, evidence-based picture of the problem.
 
 Rather than a static report, this is structured as a **guided story**. Use
-the navigation on the left (or the *Next →* button at the bottom of each
-page) to move through it in order:
+the navigation on the left to move through it in order:
         """
     )
 
