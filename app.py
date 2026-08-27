@@ -262,8 +262,7 @@ This report walks through **{TOTAL_RECORDS:,} recorded victim-level accident
 records from 2017**, spanning **{N_COUNTIES} counties** and **{N_ROADS} named
 roads**, to build a clear, evidence-based picture of the problem.
 
-Rather than a static report, this is structured as a **guided story**. Use
-the navigation on the left to move through it in order:
+**Features**:
         """
     )
 
@@ -277,12 +276,6 @@ the navigation on the left to move through it in order:
 6. **Conclusion** — pulling the findings together
 7. **Recommendations** — what should be done about it
         """
-    )
-
-    insight_box(
-        "Each visualization below is followed by a short explanation of "
-        "what it shows and why it matters — by the end, the goal is that "
-        "the recommendations feel like the obvious next step, not a guess."
     )
 
 
